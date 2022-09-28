@@ -1,0 +1,551 @@
+[
+ {
+   "municipio": "Santivañez",
+   "tipo": "Sitios naturales",
+   "lugar": "Aguas termales de Cayacayani",
+   "coordenadas": "-17.559714079655265, -66.20536426845784",
+   "imagen": "Cayacayani_santivañez.jpg",
+   "descripcion": "Este balneario de nombre Cayacayani se encuentra ubicado a 17 kilómetros de la ciudad de Cochabamba, marchando por el camino de la Tamborada.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/Cayacayani_santivañez.jpg"
+ },
+ {
+   "municipio": "Quillacollo",
+   "tipo": "Sitios naturales",
+   "lugar": "Aguas termales de Liriuni",
+   "coordenadas": "-17.287769, -66.291954",
+   "imagen": "Liriuni3.jpg",
+   "descripcion": "El gran imán de esta hermosa zona es, definitivamente, la cualidad curativa y medicinal que posee su agua. Estas propiedades medicinales son fruto de la alta concentración de minerales y del proceso natural que atraviesa el agua, porque los acuíferos subterráneos se infiltran en la corteza terrestre, llegan a tomar contacto con la lava y se evapora. ",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/Liriuni3.jpg"
+ },
+ {
+   "municipio": "Tapacari",
+   "tipo": "Sitios naturales",
+   "lugar": "Aguas Termales Incuyo",
+   "coordenadas": "-17.572799, -66.632218",
+   "imagen": "aguas_termales_incuyo.jpg",
+   "descripcion": "Se dice que las pozas de Incuyo fueron un punto referente del camino real de los Incas, mismos que mandaron a construir una serie de piscinas naturales en el cauce del río Incuyo, esto se observa en el tamaño de las tres posas. La más alta es más pequeña y con aguas termales mucho más calientes que era “para el líder” y las restantes fueron destinadas según la jerarquía.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/aguas_termales_incuyo.jpg"
+ },
+ {
+   "municipio": "Tacopaya",
+   "tipo": "Sitios naturales",
+   "lugar": "Aguas Termales Qollpa",
+   "coordenadas": "-17.842806, -66.618219",
+   "imagen": "aguas_termales_collpa.jpg",
+   "descripcion": "Distante a 135 kilómetros de la ciudad de Cochabamba se encuentra esta comunidad donde, según cuentan los comunarios, existen aguas termales hace más de 100 años, además de otros atractivos como chullpas, túneles y una casa colonial llamada “De los patrones”.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/aguas_termales_collpa.jpg"
+ },
+ {
+   "municipio": "Arbieto y Tolata",
+   "tipo": "Sitios naturales",
+   "lugar": "Angostura",
+   "coordenadas": "-17,5294831, -66,0857315",
+   "imagen": "angostura.jpg",
+   "descripcion": "La laguna La Angostura es una laguna artificial. La laguna se caracteriza por su forma alargada y por ser uno de los sitios de turismo local, ya que se puede acampar en cabañas construidas en sus orillas y pescar.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/angostura.jpg"
+ },
+ {
+   "municipio": "Chimore",
+   "tipo": "Sitios naturales",
+   "lugar": "Aroma Independiente",
+   "coordenadas": "-17.021582, -65.162863",
+   "imagen": "aroma_independiente.jpg",
+   "descripcion": "Es una zona con gran potencial Turístico que se encuentra rodeada de playas donde se puede realizar distintas actividades de aventura y recorridos de senderismo en sus llanuras altas, disfrutar de sus ríos donde se puede realizar pesca deportiva, actividades de aventura como el kayak, rafting, navegaciones en barcos de la comunidad y disfrutar de las pozas naturales que presenta la naturaleza de Aroma Independiente.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/aroma_independiente.jpg"
+ },
+ {
+   "municipio": "Aiquile",
+   "tipo": "Sitios naturales",
+   "lugar": "Bosques De Cactus (Caraparis",
+   "coordenadas": "-18.193980, -65.178705",
+   "imagen": "cactus_carapari:jpg",
+   "descripcion": "El Caraparí (Neoraimondia herzogiana) es un cactus columnar endémico de Bolivia que puede alcanzar hasta 15 metros de altura. Crece en el Valle Seco Interandino, en llanuras y valles fluviales.\nEn elevaciones, con altitudes entre 800 y 2.300 m sobre el nivel del mar, puede ser abundante y capaz de formar bosques.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/cactus_carapari:jpg"
+ },
+ {
+   "municipio": "Independencia",
+   "tipo": "Sitios naturales",
+   "lugar": "Bosques de Neblina",
+   "coordenadas": "-17.066929, -66.825275",
+   "imagen": "bosques_neblina_independencia.jpg",
+   "descripcion": "Uno de los recorridos turísticos más requeridos es la caminata al Bosque de Neblina de Pajchanti, cuya altitud oscila entre los 2800 y los 3800 m.s.n.m. Esta reserva forestal de la especie Pino de Monte es la mayor en Bolivia, alberga las siguientes especies forestales endémicas: la chachacoma y el pino de monte, además de fanerógamas y una gran variedad de plantas epifitas.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/bosques_neblina_independencia.jpg"
+ },
+ {
+   "municipio": "Puerto Villarroel, Chimoré y Villa\nTunari",
+   "tipo": "Sitios naturales",
+   "lugar": "Bufeo (Río Mamoré)",
+   "coordenadas": "-16.762336, -64.860183",
+   "imagen": "bufeo.jpg",
+   "descripcion": "No es novedad alguna que el departamento de Cochabamba comparte del hábitat natural del delfín rosado, un cetáceo de agua dulce endémico de la amazonia boliviana. Un equipo científico del Instituto de Investigaciones Aplicadas de los Recursos del Agua (Faunagua), estableció que en los afluentes del río Mamoré en el Chapare existe una población de 141 ejemplares registrados por dicho equipo.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/bufeo.jpg"
+ },
+ {
+   "municipio": "Shinahota",
+   "tipo": "Sitios naturales",
+   "lugar": "Cañón del Ivirizu",
+   "coordenadas": "-17.430505, -65.256054",
+   "imagen": "Ivirizu.jpg",
+   "descripcion": "",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/Ivirizu.jpg"
+ },
+ {
+   "municipio": "Mizque",
+   "tipo": "Sitios naturales",
+   "lugar": "Cañón del K’uri",
+   "coordenadas": "-17.841765, -65.463245",
+   "imagen": "c_kuri.jpg",
+   "descripcion": "El Puente de Los Libertadores no es el único atractivo, también está el mismo cañón del K’uri, cuya profundidad de unos 80 metros lo convierte en un magnífico atractivo natural geológico.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/c_kuri.jpg"
+ },
+ {
+   "municipio": "Sacaba",
+   "tipo": "Sitios naturales",
+   "lugar": "Cañon Tuta Wallpa",
+   "coordenadas": "-17.0146855, -65.9806895",
+   "imagen": "tuta_wallpa.jpg",
+   "descripcion": "El cañón de Tuta Wallpa, una belleza escondida en la región subtropical de Cochabamba que refugia, en las entrañas de la montaña, agua frenética y guácharos.  ",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/tuta_wallpa.jpg"
+ },
+ {
+   "municipio": "Villa Rivero",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Casa de Gualberto Villarroel",
+   "coordenadas": "-17.609781967468244, -65.8228351780289",
+   "imagen": "Casa_GVillarroel.jpg",
+   "descripcion": "La histórica casa del notable militar, político y presidente de Bolivia, Gualberto Villarroel López (1908-1946), está deteriorada y se ha convertido en un almacén de herramientas de la Alcaldía de Villa Rivero, después de haber sido refaccionada con materiales distintos a los originales y de haberse modificado el uso de algunos ambientes.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/Casa_GVillarroel.jpg"
+ },
+ {
+   "municipio": "Vacas",
+   "tipo": "Sitios naturales",
+   "lugar": "Cascada de Toro Huarkhu",
+   "coordenadas": "-17.635478, -65.514199",
+   "imagen": "Toro huarco.jpg",
+   "descripcion": "Toro Warkhu tiene una caída de aproximadamente 80 metros. el agua es como una mantilla blanca, que cae entre riscos y vegetación y se deposita en pequeñas lagunas de aguas diáfanas.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/Toro huarco.jpg"
+ },
+ {
+   "municipio": "Tiquipaya",
+   "tipo": "Sitios naturales",
+   "lugar": "Cascadas gemelas de Apote",
+   "coordenadas": "-17.303818, -66.246977",
+   "imagen": "cascadas_apote.jpg",
+   "descripcion": "Las cascadas gemelas caen desde una altura de 20 a 25 metros en una poza cristalina que invita a bañarse.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/cascadas_apote.jpg"
+ },
+ {
+   "municipio": "Anzaldo",
+   "tipo": "Sitios naturales",
+   "lugar": "Cavidades continentales del Caine",
+   "coordenadas": "-17.972915, -65.850134",
+   "imagen": "cav_anzaldo.jpeg",
+   "descripcion": "Esta zona comprende cuencas del borde continental y las cavidades continentales cerradas de paleozoico y mesozoico, donde se ubican muchas canteras de caliza, yeso y minerales utilizados en pequeña escala.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/cav_anzaldo.jpeg"
+ },
+ {
+   "municipio": "Tiraque",
+   "tipo": "Sitios naturales",
+   "lugar": "Ch ’ejta Rumi",
+   "coordenadas": "-17.410656, -65.714535",
+   "imagen": "chejta_rumi.jpg",
+   "descripcion": "Ch’ejta   Rumi,   más   conocida   como   la   “Piedra   del   Inca”,   es   una   roca   de   grandesproporciones que parece partida por un rayo.En la base de esta roca se creó una cueva subterránea, a la cual ingresan algunoshabitantes, los primeros viernes de mes para k’oar",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/chejta_rumi.jpg"
+ },
+ {
+   "municipio": "Cochabamba",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Colina de San Sebastián",
+   "coordenadas": "-17.405123, -66.160835",
+   "imagen": "colina-de-san-sebastian.jpg",
+   "descripcion": "La Colina de San Sebastián se encuentra ubicado muy cerca de la Terminal de Buses, en esta colina se encuentra el monumento de las Heroínas de la Coronilla, el Paseo de Los Héroes y el Monumento a las Armas, estos fueron declarados «Sitio de Interés Histórico, Cultural y Nacional» en homenaje a los 200 años de la Batalla de las Heroínas que se registró el 27 de mayo de 1812.\nEl monumento a las Heroínas de la Coronilla, fue esculpida en bronce en 1922, este representa simbólicamente la participación de un grupo de valerosas mujeres que resistieron a las tropas del General Goyeneche, durante la guerra de la independencia.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/colina-de-san-sebastian.jpg"
+ },
+ {
+   "municipio": "Pocona",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Complejo Arqueológico de Incallajta",
+   "coordenadas": "-17.604846, -65.415116",
+   "imagen": "incallajta.jpg",
+   "descripcion": "Ubicada en el municipio de Pocona, la fortaleza de Incallajta es un conjunto de edificaciones construidas en una superficie de aproximadamente 12 hectáreas.\nPor referencia de cronistas españoles, se sabe que Incallajta fue mandada a construir entre 1463 y 1472 por Inca Tupac Yupanki habiendo sido invadida y saqueada por los pueblos del oriente (los Chiriguanos). Posteriormente, el inca Huayna Capac en 1525 la mandó a reconstruir.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/incallajta.jpg"
+ },
+ {
+   "municipio": "Arani",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Convento de Santa Catalina de Collpa Ciaco",
+   "coordenadas": "-17.602037, -65.755714",
+   "imagen": "convento_arani",
+   "descripcion": "El Convento Santa Catalina de Collpaciaco (municipio de Arani), fue construido por los primeros religiosos agustinos en el Alto Perú. Esta, poco conocida, edificación es un valioso ejemplo de arquitectura religiosa del siglo XVI.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/convento_arani"
+ },
+ {
+   "municipio": "Cochabamba",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Convento de Santa Teresa",
+   "coordenadas": "-17.389354, -66.157994",
+   "imagen": "convento_santa_teresa.jpg",
+   "descripcion": "El Convento Santa Teresa es en la actualidad un monasterio claustro histórico donde vivían las hermanas de la orden Carmelitas Descalzas, devotas a la Virgen del Carmen y de Santa Teresa de Jesús.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/convento_santa_teresa.jpg"
+ },
+ {
+   "municipio": "Colomi",
+   "tipo": "Sitios naturales",
+   "lugar": "Corani",
+   "coordenadas": "-17,2294304, -65,8916378",
+   "imagen": "corani.jpg",
+   "descripcion": "La laguna Corani es una laguna artificial de Bolivia. Administrativamente se encuentra en el municipio de Colomi de la provincia del Chapare en el departamento de Cochabamba. Presenta una forma alargada de norte a sur, es una importante zona de criadero de peces de la cual viven todas las comunidades asentadas en sus orillas.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/corani.jpg"
+ },
+ {
+   "municipio": "Cochabamba",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Cristo de la Concordia",
+   "coordenadas": "-17.384382, -66.135009",
+   "imagen": "Cristo_de_la_Concordia.jpg",
+   "descripcion": "El Cristo de la Concordia es una estatua monumental de Jesucristo, que se encuentra sobre el cerro de San Pedro en la ciudad de Cochabamba, Bolivia, a una altura de 265 metros sobre la ciudad. La estatua mide 34,20 metros de altura, sobre un pedestal de 6,24 metros, con una altura total de 40,44 m.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/Cristo_de_la_Concordia.jpg"
+ },
+ {
+   "municipio": "Anzaldo",
+   "tipo": "Sitios naturales",
+   "lugar": "Huellas y restos de dinosaurios",
+   "coordenadas": "-17.956473296297116, -65.89742794680046",
+   "imagen": "huellas_dino_anzaldo.jpg",
+   "descripcion": "Hace tres años, un deslizamiento de tierra dejó al descubierto huellas de dinosaurios en la localidad de Anzaldo, Cochabamba.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/huellas_dino_anzaldo.jpg"
+ },
+ {
+   "municipio": "Villa Tunari",
+   "tipo": "Sitios naturales",
+   "lugar": "Incachaca",
+   "coordenadas": "-17,2371770, -65,8170738",
+   "imagen": "incachaca.jpg",
+   "descripcion": "Incachaca es una zona arqueológica de la época incaica ubicado en el municipio de Colomi del departamento de Cochabamba en el centro de Bolivia. En este sitio se encuentran construcciones de origen incaico como fuertes, puentes y escalones en las ruinas arqueológicas.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/incachaca.jpg"
+ },
+ {
+   "municipio": "V. Gualberto Villarroel",
+   "tipo": "Sitios naturales",
+   "lugar": "Inka perkha",
+   "coordenadas": "-17.6615593632961, -65.7664873332898",
+   "imagen": "inca_perkha_cuchumuel.jpg",
+   "descripcion": "Los principales atractivos se centran en el sitio arqueológico de Inca Perkha y las pozas de aguas cristalinas del río Lajas Mayu. El primero es un sitio arqueológico construido por los incas en su incursión a estos valles; y el segundo, un espacio natural creado por la madre naturaleza.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/inca_perkha_cuchumuel.jpg"
+ },
+ {
+   "municipio": "Tapacarí",
+   "tipo": "Sitios naturales",
+   "lugar": "Kalistia",
+   "coordenadas": "-17.532610, -66.733690",
+   "imagen": "kalistia.png",
+   "descripcion": "Desmesuradas formaciones rocosas de color rosado y naranja que se desparraman entre praderas verdes como esmeralda.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/kalistia.png"
+ },
+ {
+   "municipio": "Santivañez",
+   "tipo": "Sitios naturales",
+   "lugar": "La cascada y poza “El Dique”",
+   "coordenadas": "-17.57019892486133, -66.25638842962414",
+   "imagen": "Dique.jpg",
+   "descripcion": "",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/Dique.jpg"
+ },
+ {
+   "municipio": "Cocapata",
+   "tipo": "Sitios naturales",
+   "lugar": "Laguna Cajas",
+   "coordenadas": "-17.040530947414105, -66.56113961696941",
+   "imagen": "laguna_cajas.jpg",
+   "descripcion": "Es una localidad en Departamento de Cochabamba. Laguna Cajas está situada al sur de Laguna Iscay Khocha, y al norte de Lagunas Carmen.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/laguna_cajas.jpg"
+ },
+ {
+   "municipio": "Villa Tunari",
+   "tipo": "Sitios naturales",
+   "lugar": "Laguna Paraíso",
+   "coordenadas": "-17.254592, -65.817123",
+   "imagen": "laguna_paraiso.jpg",
+   "descripcion": "Rodeada de montañas, bosques tropicales y exuberante fauna en el Km. 130 carretera Cochabamba – Santa Cruz en la población de Cristal Mayu a una altura de 250 m.s.n.m. con una temperatura promedio de 20 a 35 grados centígrados y fuerte precipitación pluvial, se encuentra ubicado el ingreso la Laguna Paraiso. Un sendero de piedras con barandas de bambú desemboca en la laguna de aguas verdes, coloración del agua debido a la increíble vegetación que rodea el lugar.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/laguna_paraiso.jpg"
+ },
+ {
+   "municipio": "Sacaba",
+   "tipo": "Sitios naturales",
+   "lugar": "Laguna San Isidro",
+   "coordenadas": "-17.407662, -65.896437",
+   "imagen": "san isidro.jpg",
+   "descripcion": "La laguna San Isidro es el principal atractivo del parque, en sus aguas cristalinas, conviven especies de peces como el pejerrey, cuyo tamaño por lo general oscila entre los 25 a 30 centímetro",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/san isidro.jpg"
+ },
+ {
+   "municipio": "Bolivar",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Loco Loco y Tijraskha",
+   "coordenadas": "-17.957628, -66.536903",
+   "imagen": "loco_loco.jpg",
+   "descripcion": "En medio de una cadena de piedras imponentes que denotan el escenario ideal para la escalada se encuentra la ciudad petrificada Tijraskha de la población de Bolívar en Cochabamba.\nComo también las pinturas rupestres de Loko Lokoni son el fiel testimonio de que en el sector habitaron culturas precolombinas.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/loco_loco.jpg"
+ },
+ {
+   "municipio": "Shinahota",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Majo Pampa",
+   "coordenadas": "-17.033081, -65.362728",
+   "imagen": "majo_pampa.jpg",
+   "descripcion": "Majo Pampa A es un pueblo en Departamento de Cochabamba y tiene alrededor de 248 habitantes. Majo Pampa A está situada al noreste de Majo Pampa B, y al suroeste de Alto San Isidro - Disperso.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/majo_pampa.jpg"
+ },
+ {
+   "municipio": "Quillacollo",
+   "tipo": "Sitios naturales",
+   "lugar": "Misicuni",
+   "coordenadas": "-17.121233, -66.327860",
+   "imagen": "misicuni.jpg",
+   "descripcion": "La represa Misicuni construido en el cause del río Misicuni. El dique desvía agua del río Misicuni al Valle de Cochabamba para varios propósitos incluido el de proporcionar agua para irrigación y uso de municipal de aguas. Además, la presa tiene asociada una estación de energía hidroeléctrica de 80 MW.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/misicuni.jpg"
+ },
+ {
+   "municipio": "Cochabamba",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Museo arqueológico de la UMSS",
+   "coordenadas": "-17.39535725919733, -66.15739072078996",
+   "imagen": "museo_umss.jpg",
+   "descripcion": "Fundado en 1951 por el Prof. Dick Edgar Ibarra Grasso, originalmente como Museo Arqueológico y Etnográfico de la UMSS. En 1963, dentro de este Museo, se creó la primera Escuela de Antropología y Arqueología de Bolivia y la tercera de Latinoamérica. En 1980, es elevado al rango de Instituto de Investigaciones Antropológicas y Museo Arqueológico, dependiente de la Dirección de Investigación Científica y Tecnológica y del Vicerrectorado de la Universidad Mayor de San Simón.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/museo_umss.jpg"
+ },
+ {
+   "municipio": "Cochabamba",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Museo de historia natural D’orbigni",
+   "coordenadas": "-17.373561, -66.153397",
+   "imagen": "museo_dorbigni.jpg",
+   "descripcion": "El museo lleva el nombre del famoso naturalista francés Alcide d’Orbigny, quien en 1826 comenzó un viaje de exploración de América Meridional que incluyó Bolivia y duró ocho años. La publicación de los resultados de este viaje es una monumental obra de nueve tomos y miles de ilustraciones, que constituye un referente muy importante para la región en las áreas de botánica, zoología y antropología",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/museo_dorbigni.jpg"
+ },
+ {
+   "municipio": "Vinto",
+   "tipo": "Sitios naturales",
+   "lugar": "Pairumani",
+   "coordenadas": "-17,3446945, -66,3315956",
+   "imagen": "pairumani.jpg",
+   "descripcion": "En 1915, Simón I. Patiño ordenó la elaboración de los primeros planos para su casa de campo, Villa Albina, en las tierras que acababa de adquirir en Pairumani, al pie de la cordillera del Tunari. Movido por el deseo de crear alrededor de esa propiedad una verdadera hacienda agrícola y ganadera, poco a poco fue adquiriendo los terrenos adyacentes para constituir una gran superficie cuya parte central es la Granja Modelo Pairumani tal como se la conoce hoy en día.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/pairumani.jpg"
+ },
+ {
+   "municipio": "Cochabamba",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Palacio Portales",
+   "coordenadas": "-17.374792, -66.153296",
+   "imagen": "portales.jpg",
+   "descripcion": "El Palacio Portales es un edificio ubicado en la ciudad de Cochabamba, Bolivia. Fue construido entre los años 1915 y 1927 en base en un diseño del arquitecto Eugene Bliault. Concebido como residencia de Simón Iturri Patiño nunca fue habitado por la familia.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/portales.jpg"
+ },
+ {
+   "municipio": "Villa Tunari",
+   "tipo": "Sitios naturales",
+   "lugar": "Parque Machía",
+   "coordenadas": "-16,9666263, -65,4123328",
+   "imagen": "parque-machia.jpg",
+   "descripcion": "En 1996, con dos monos araña, dos monos capuchinos y un mono ardilla, CIWY estableció el primer santuario de animales silvestres en Bolivia en Parque Machia: Hoy en día, el santuario atiende a más de 400 animales, de más de 20 especies diferentes, incluidas varias que están amenazadas. Machía significa “terreno montañoso” en Yuracaré, la lengua indígena originaria de la zona.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/parque-machia.jpg"
+ },
+ {
+   "municipio": "Carrasco",
+   "tipo": "Sitios naturales",
+   "lugar": "Parque Nacional Carrasco",
+   "coordenadas": "-17.417545, -65.000950",
+   "imagen": "parque-carrasco.jpg",
+   "descripcion": "El Parque Nacional Carrasco, situado al este de Cochabamba, involucra a los municipios de Puerto Villarroel, Chimoré, Totora, Poona, Tiraque, Villa Tunari y Colomi. El área presenta una gran belleza escénica caracterizada por el relieve montañoso con cañones y valles profundos, ríos torrentosos, caídas de agua y una exuberante vegetación.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/parque-carrasco.jpg"
+ },
+ {
+   "municipio": "RMK",
+   "tipo": "Sitios naturales",
+   "lugar": "Parque Nacional Tunari",
+   "coordenadas": "-17.247963, -66.333697",
+   "imagen": "parque_tunari.jpg",
+   "descripcion": "El Parque nacional Tunari es un área protegida de Bolivia, ubicado en el oeste del departamento de Cochabamba. Los municipios involucrados son: Morochata, Cochabamba, Quillacollo, Sipe Sipe, Tiquipaya, Vinto, Colcapirhua, Sacaba, Colomi, Villa Tunari y Tapacarí.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/parque_tunari.jpg"
+ },
+ {
+   "municipio": "Cochabamba",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Plaza Principal 14 de Septiembre",
+   "coordenadas": "-17.393773, -66.157132",
+   "imagen": "plaza-14-de-septiembre.jpg",
+   "descripcion": "Es una plaza ubicada en la ciudad de Cochabamba, Bolivia. Corresponde a la tipología de plaza mayor o de armas, espacios urbanos característicos de los trazados hispanoamericanos, se halla flanqueada por los edificios que representaban el poder estatal y religioso en la ciudad.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/plaza-14-de-septiembre.jpg"
+ },
+ {
+   "municipio": "Pocona",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Pueblo de Chimboata",
+   "coordenadas": "-17.660936, -65.285150",
+   "imagen": "chimboata.jpg",
+   "descripcion": "Se trata de una comunidad tradicionalmente agrícola que en los últimos decenios se ha visto sometida a las presiones que estrangulan la Economía Campesina y cuya población ha ido progresivamente migrando en busca de mejores oportunidades, tanto al interior del país como al exterior. Las características arquitectónicas y morfológicas del centro poblado han merecido la consideración de algunos estudios que plantean su origen aparentemente colonial y lo reconocen como uno de los poblados cuyas características coloniales no se habrían modificado.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/chimboata.jpg"
+ },
+ {
+   "municipio": "Tarata",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Pueblo de Tarata",
+   "coordenadas": "-17,6115553, -66,0233779",
+   "imagen": "tarata.jpg",
+   "descripcion": "Hace 7000 años a.C., Tarata era habitada por pueblos recolectores. Además en los alrededores del pueblo de Tarata, se encuentran importantes sitios arqueológicos entre ellos: Aranjuez, Huerta Mayu, Chaguarani, etc., donde quedan restos de una gran cantidad de hornos de cerámica que datan de una producción alfarera masiva.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/tarata.jpg"
+ },
+ {
+   "municipio": "Totora",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Pueblo De Totora",
+   "coordenadas": "-17.737937, -65.189921",
+   "imagen": "totora-bolivia.jpg",
+   "descripcion": "Totora es una pequeña ciudad a 150 km. Al sur este de Cochabamba posee una riquísima arquitectura colonial, conformada por viejas casas y templos de la época. Debido a la especial topografía de la zona, las calles conservan una distribución atípica, con calles sinuosas, recovecos que le confieren un aspecto de ciudad andina muy propio, considerada por ello una joya arquitectónica a donde acuden los artistas y pintores para encontrar inspiración en sus callejuelas angostas y empinadas, los detalles de sus balcones y la belleza de sus templos religiosos.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/totora-bolivia.jpg"
+ },
+ {
+   "municipio": "Quillacollo",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Qollcas de Cotapachi",
+   "coordenadas": "-17.440432, -66.287393",
+   "imagen": "c_cotapachi.jpg",
+   "descripcion": "Se trata de un enorme complejo de silos emplazados en tres sectores de la colina para el acopio de maíz que se producía en la zona, siendo el más grande del imperio de los incas, formado por aproximadamente 2.500 qollcas o silos.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/c_cotapachi.jpg"
+ },
+ {
+   "municipio": "Cocapata",
+   "tipo": "Sitios naturales",
+   "lugar": "Reserva Natural Altamachi",
+   "coordenadas": "-17.033743, -66.433419",
+   "imagen": "altamachi.jpeg",
+   "descripcion": "Con el objeto de fomentar el turismo comunitario - ecoturismo y turismo de aventura en el municipio de Cocapata - en el mes de septiembre se realiza el gran Chaku o arreo de vicuñas en la comunidad de Huaripucara de la region de Altamachi, donde tambien se realizaran actividades turisticas de aventura y visitas a los atractivos turisticos.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/altamachi.jpeg"
+ },
+ {
+   "municipio": "Anzaldo",
+   "tipo": "Sitios naturales",
+   "lugar": "Río Caine",
+   "coordenadas": "-17,9657589, -65,8639994",
+   "imagen": "rio_caine.jpg",
+   "descripcion": "El río Caine es un río amazónico boliviano, una afluente que forma parte del curso alto del río Grande. El río discurre por el departamento de Cochabamba y departamento de Potosí.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/rio_caine.jpg"
+ },
+ {
+   "municipio": "Villa Tunari",
+   "tipo": "Sitios naturales",
+   "lugar": "Río Espíritu Santo",
+   "coordenadas": "-16.95619750086878, -65.38671988871013",
+   "imagen": "rio_espiritusanto.jpg",
+   "descripcion": "Río Espíritu Santo es un arroyo en Departamento de Cochabamba. Río Espíritu Santo está situada al noroeste de Río San Antonio.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/rio_espiritusanto.jpg"
+ },
+ {
+   "municipio": "Aiquile",
+   "tipo": "Sitios naturales",
+   "lugar": "Rio Grande",
+   "coordenadas": "-18.193027, -65.173652",
+   "imagen": "rio_grande.jpg",
+   "descripcion": "Paisajes impresionantes sobre el Rio Grande, cerca a un área natural que es refugio de la Paraba de frente Roja y las diferentes especies propias de los valles secos interandinos de Bolivia.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/rio_grande.jpg"
+ },
+ {
+   "municipio": "Puerto Villarroel",
+   "tipo": "Sitios naturales",
+   "lugar": "Río Ichilo",
+   "coordenadas": "-17.259553, -64.340637",
+   "imagen": "rio_ichilo.jpg",
+   "descripcion": "El río Ichilo es un río amazónico boliviano que forma parte del curso alto del río Mamoré. El río discurre entre el departamento de Santa Cruz y el departamento de Cochabamba.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/rio_ichilo.jpg"
+ },
+ {
+   "municipio": "Entre Rios",
+   "tipo": "Sitios naturales",
+   "lugar": "Río Ichoa",
+   "coordenadas": "-17.143100, -64.455762",
+   "imagen": "rio_ichoa.jpg",
+   "descripcion": "Río Ichoa es un arroyo en Departamento de Cochabamba. Río Ichoa está situada al noreste de Arroyo Hondo.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/rio_ichoa.jpg"
+ },
+ {
+   "municipio": "Villa Tunari",
+   "tipo": "Sitios naturales",
+   "lugar": "Río San Mateo",
+   "coordenadas": "-17.813333, -64.353056",
+   "imagen": "rio_san_mateo.jpeg",
+   "descripcion": "El río San Mateo es un río boliviano de la cuenca del amazonas, pertenece a la cuenca alta del río Mamoré, nace y discurre totalmente por el departamento de Santa Cruz, desemboca en el río Alto Ichilo. Se caracteriza por estar formado por dos brazos y por ser la fuente más alejada del río Mamoré.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/rio_san_mateo.jpeg"
+ },
+ {
+   "municipio": "Independencia",
+   "tipo": "Sitios naturales",
+   "lugar": "Sailapata",
+   "coordenadas": "-16.917585, -66.943865",
+   "imagen": "sailapata.jpg",
+   "descripcion": "En Sailapata el bosque de neblina se encuentra a una altura entre 2800 - 3500 msnm. Este tipo de bosque generalmente tiene una vegetación de especies latifoliadas cubiertas de epifitas, conformada por especies arbóreas nativas como Podocarpus glomeratus, Cedrela lilloi, Weinmannia micropylla, Ocotea sp, Blepharocalix y otras (Villavicencio 2001).",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/sailapata.jpg"
+ },
+ {
+   "municipio": "",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Sitio arqueológico Incaraqay",
+   "coordenadas": "-17,4800216, -66,3856575",
+   "imagen": "inkarakay.jpg",
+   "descripcion": "El conjunto arqueológico de Inca Rakay, la laguna de Lapiani, el templo colonial de la comunidad de Uchucho, el valle de las rocas y otros espacios forman parte de los principales atractivos que ofrece el municipio de Sipe Sipe, que el pasado 21 de junio fue lanzado como uno de los principales destinos turísticos que tiene el departamento de Cochabamba en el valle bajo.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/inkarakay.jpg"
+ },
+ {
+   "municipio": "Independencia",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Sitios Arqueológicos Sacambaya: Muralla y Crestón de Llavecita",
+   "coordenadas": "-16.933141, -66.982616",
+   "imagen": "Sacambaya.jpg",
+   "descripcion": "La muralla de Sacambaya es uno de los grandes restos arqueológicos del municipio. Cuenta con 166 metros de longitud y cuatro metros de altura, y se ubica en el fondo de una impresionante cañada con leyendas de oro escondido. Una hipótesis manejada sobre el origen de estas ruinas, es que este monumento podría haberse construido en un periodo preincaico y posiblemente fueron utilizados y reforzados por los incas.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/Sacambaya.jpg"
+ },
+ {
+   "municipio": "Tapacarí",
+   "tipo": "Sitios naturales",
+   "lugar": "Tallija",
+   "coordenadas": "-17.534908, -66.735983",
+   "imagen": "tallija.jpg",
+   "descripcion": "Por la factura en la ejecución del arte rupestre en los diferentes sitios documentados, se considera que la comunidad de Tallija, usó el Arte Rupestre como un medio de documentación cronológica, plasmando en los diferentes paneles, sucesos de su cotidiano vivir, representados en diferentes periodos.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/tallija.jpg"
+ },
+ {
+   "municipio": "Quillacollo",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Templo de San Ildefonso",
+   "coordenadas": "-17.398240, -66.281622",
+   "imagen": "Templo_de_San_Ildefonso.JPG",
+   "descripcion": "El establecimiento de la Doctrina o Curato de San Ildefonso de Quillacollo se instituyó entre los años 1585 y 1600. Sus curatos dieron origen a las poblaciones coloniales, que desde entonces celebraban con fastuosidad y solemnidad la Festividad Patronal de la Virgen de la Asunción, en advocación de Urkupiña.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/Templo_de_San_Ildefonso.JPG"
+ },
+ {
+   "municipio": "Villa Tunari",
+   "tipo": "Sitios naturales",
+   "lugar": "Territorio Indígena Parque Nacional\nIsiboro Sécure TIPNIS",
+   "coordenadas": "-16.407312, -66.047298",
+   "imagen": "tipnis.jpg",
+   "descripcion": "Territorio Indígena Parque Nacional Isiboro Sécure (TIPNIS) está ubicado entre los departamentos del Beni (Provincia Moxos) y de Cochabamba (Provincia Chapare). Están registradas 402 especies de flora y se estima la existencia de 3.000 especies de plantas superiores. La extraordinaria diversidad florística incluye especies como el aliso, el pino de monte, el nogal y el tajibo, etc. La fauna es igualmente muy diversificada registrándose a la fecha 714 especies. Entre éstas destacan: el pejichi, el marimono, el manechi, la londra, el jaguar, el ciervo de los pantanos, la harpía, el pato negro, aves endémicas y el caimán negro.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/tipnis.jpg"
+ },
+ {
+   "municipio": "Vinto",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Villa Albina-Casona de Simón I. Patiño",
+   "coordenadas": "-17,3606122, -66,3244830",
+   "imagen": "casa_albina_p.jpeg",
+   "descripcion": "Fue mandada construir, entre 1925 y 1932, por Don Simón I. Patiño para su esposa Albina Rodríguez de Patiño. La historia cuenta que un tiempo antes de construirla, los esposos Patiño realizaron un viaje de vacaciones a Vinto y en un Carnaval fueron invitados a pasar un día de campo bajo un huerto de olivos. Doña Albina quedó fascinada por el lugar, por lo que Don Simón ofreció comprarle algún día una casa de campo en la zona, para pasar sus vacaciones.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/casa_albina_p.jpeg"
+ },
+ {
+   "municipio": "Tiquipaya",
+   "tipo": "Patrimonio urbano, arquitectónico, artístico, museos y manifestaciones culturales",
+   "lugar": "Yunga Pampa",
+   "coordenadas": "-16.943418, -66.263614",
+   "imagen": "yunga_pampa.jpg",
+   "descripcion": "El bosque nublado de la reserva en Yunga Pampa alberga una gran diversidad de fauna silvestre. Allá se pueden encontrar loros, monos, chanchos de monte y osos andinos o jukumaris, que son la mayor atracción para el turismo y la investigación científica. Otra especie del lugar es el venado andino, en riesgo de extinción. La vegetación es abundante todo el año y está compuesta de plantas de laurel, cedro, quina, bambú, pacay silvestre, orquídeas, helechos, dromelias y hierbas medicinales.",
+   "img_url": "https://labtecnosocial.org/cocha-turismo/yunga_pampa.jpg"
+ }
+]
