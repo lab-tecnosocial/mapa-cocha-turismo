@@ -6,7 +6,7 @@
    "coordenadas": "-17.559714079655265, -66.20536426845784",
    "imagen": "Cayacayani_santivañez.jpg",
    "descripcion": "Este balneario de nombre Cayacayani se encuentra ubicado a 17 kilómetros de la ciudad de Cochabamba, marchando por el camino de la Tamborada.",
-   "img_url": "https://labtecnosocial.org/cocha-turismo/Cayacayani_santivañez.jpg"
+   "img_url": "https://labtecnosocial.org/cocha-turismo/Cayacayani_santivanez.jpg"
  },
  {
    "municipio": "Quillacollo",
@@ -60,16 +60,16 @@
    "coordenadas": "-18.193980, -65.178705",
    "imagen": "cactus_carapari:jpg",
    "descripcion": "El Caraparí (Neoraimondia herzogiana) es un cactus columnar endémico de Bolivia que puede alcanzar hasta 15 metros de altura. Crece en el Valle Seco Interandino, en llanuras y valles fluviales.\nEn elevaciones, con altitudes entre 800 y 2.300 m sobre el nivel del mar, puede ser abundante y capaz de formar bosques.",
-   "img_url": "https://labtecnosocial.org/cocha-turismo/cactus_carapari:jpg"
+   "img_url": "https://labtecnosocial.org/cocha-turismo/cactus_carapari.jpg"
  },
  {
    "municipio": "Independencia",
    "tipo": "Sitios naturales",
    "lugar": "Bosques de Neblina",
    "coordenadas": "-17.066929, -66.825275",
-   "imagen": "bosques_neblina_independencia.jpg",
+   "imagen": "bosques_neblina_independencia.png",
    "descripcion": "Uno de los recorridos turísticos más requeridos es la caminata al Bosque de Neblina de Pajchanti, cuya altitud oscila entre los 2800 y los 3800 m.s.n.m. Esta reserva forestal de la especie Pino de Monte es la mayor en Bolivia, alberga las siguientes especies forestales endémicas: la chachacoma y el pino de monte, además de fanerógamas y una gran variedad de plantas epifitas.",
-   "img_url": "https://labtecnosocial.org/cocha-turismo/bosques_neblina_independencia.jpg"
+   "img_url": "https://labtecnosocial.org/cocha-turismo/bosques_neblina_independencia.png"
  },
  {
    "municipio": "Puerto Villarroel, Chimoré y Villa\nTunari",
@@ -123,7 +123,7 @@
    "coordenadas": "-17.635478, -65.514199",
    "imagen": "Toro huarco.jpg",
    "descripcion": "Toro Warkhu tiene una caída de aproximadamente 80 metros. el agua es como una mantilla blanca, que cae entre riscos y vegetación y se deposita en pequeñas lagunas de aguas diáfanas.",
-   "img_url": "https://labtecnosocial.org/cocha-turismo/Toro huarco.jpg"
+   "img_url": "https://labtecnosocial.org/cocha-turismo/toro_huarco.jpg"
  },
  {
    "municipio": "Tiquipaya",
@@ -231,7 +231,7 @@
    "coordenadas": "-17.6615593632961, -65.7664873332898",
    "imagen": "inca_perkha_cuchumuel.jpg",
    "descripcion": "Los principales atractivos se centran en el sitio arqueológico de Inca Perkha y las pozas de aguas cristalinas del río Lajas Mayu. El primero es un sitio arqueológico construido por los incas en su incursión a estos valles; y el segundo, un espacio natural creado por la madre naturaleza.",
-   "img_url": "https://labtecnosocial.org/cocha-turismo/inca_perkha_cuchumuel.jpg"
+   "img_url": "https://labtecnosocial.org/cocha-turismo/inca_perkha_cuchumuela.jpg"
  },
  {
    "municipio": "Tapacarí",
@@ -276,7 +276,7 @@
    "coordenadas": "-17.407662, -65.896437",
    "imagen": "san isidro.jpg",
    "descripcion": "La laguna San Isidro es el principal atractivo del parque, en sus aguas cristalinas, conviven especies de peces como el pejerrey, cuyo tamaño por lo general oscila entre los 25 a 30 centímetro",
-   "img_url": "https://labtecnosocial.org/cocha-turismo/san isidro.jpg"
+   "img_url": "https://labtecnosocial.org/cocha-turismo/san-isidro-sacaba.jpg"
  },
  {
    "municipio": "Bolivar",
