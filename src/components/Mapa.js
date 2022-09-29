@@ -6,7 +6,7 @@ import MiMarker from './MiMarker'
 export default function Mapa() {
 
     return (
-        <MapContainer center={[-17.394, -66.161]} zoom={8} attributionControl={false} className="map-container"
+        <MapContainer center={[-17.394, -66.0]} zoom={9} attributionControl={false} className="map-container"
         >
             <TileLayer
                 attribution='Desarrollado por el <a href="https://labtecnosocial.org/">Lab TecnoSocial</a>'
@@ -16,7 +16,7 @@ export default function Mapa() {
             {data.map((item, index) => (
                 <MiMarker key={index} item={item} />
             ))}
-            <AttributionControl position="bottomleft" prefix={false} className="atribucion" />
+            <AttributionControl position="bottomright" prefix={false} className="atribucion" />
 
         </MapContainer>
     )

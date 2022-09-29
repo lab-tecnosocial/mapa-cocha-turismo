@@ -28,3 +28,9 @@
 .leaflet-control-attribution {
   font-size: 0.7rem;
 }
+
+/* make .leaflet-div-icon round and pretty */
+.leaflet-div-icon {
+  border-radius: 50%;
+
+}
