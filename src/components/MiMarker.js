@@ -1,4 +1,4 @@
-import { Marker, Popup } from 'react-leaflet'
+import { Marker, Popup, CircleMarker } from 'react-leaflet'
 import { Icon } from 'leaflet'
 import { useState } from 'react';
 import Lightbox from "yet-another-react-lightbox";
@@ -7,19 +7,22 @@ import Captions from "yet-another-react-lightbox/plugins/captions";
 import "yet-another-react-lightbox/plugins/captions.css";
 
 
-const icon = new Icon({
-    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png',
-    iconSize: [25, 41],
-    iconAnchor: [12, 41],
-    popupAnchor: [1, -34],
-    shadowSize: [41, 41]
-})
+
 
 export default function MiMarker({ item }) {
     const [open, setOpen] = useState(false);
 
     return (
-        <Marker position={item.coordenadas.split(", ").map(el => parseFloat(el))} icon={icon}>
+        <Marker 
+        position={item.coordenadas.split(", ").map(el => parseFloat(el))} 
+        icon={new Icon({
+            iconUrl: item.img_url,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        })}
+        >
             <Popup>
                 <img src={item.img_url} width="300px" alt={item.lugar}onClick={() => setOpen(true)} />
                 <p>{item.lugar}</p>
