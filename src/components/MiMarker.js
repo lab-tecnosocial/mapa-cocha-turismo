@@ -1,5 +1,5 @@
 import { Marker, Popup, CircleMarker } from 'react-leaflet'
-import { Icon, Point } from 'leaflet'
+import { Icon } from 'leaflet'
 import { useState } from 'react';
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
@@ -18,42 +18,41 @@ export default function MiMarker({ item }) {
             item.coordenadas.split(", ").map(el => parseFloat(el))}
             icon={new Icon({
                 iconUrl: item.img_url,
-                iconAnchor: new Point(0, 0),
-                popupAnchor: new Point(16, 0),
+                popupAnchor: [-10, 0],
                 shadowUrl: null,
                 shadowSize: null,
                 shadowAnchor: null,
-                iconSize: new Point(32, 32),
+                iconSize: [32, 32],
                 className: 'leaflet-div-icon'
             })}
             eventHandlers={{    
                 click: () => {
                     setOpen(true);
                 },
+                // make the icon bigger and show item.lugar on hover
+                
+
+                
                 // make the icon temporary bigger when hover
                 mouseover: (e) => {
-                    e.target.openPopup();
                     e.target.setIcon(new Icon({
                         iconUrl: item.img_url,
-                        iconAnchor: new Point(0, 0),
-                        popupAnchor: new Point(16, 0),
+                        popupAnchor: [-20, 0],
                         shadowUrl: null,
                         shadowSize: null,
                         shadowAnchor: null,
-                        iconSize: new Point(64, 64),
+                        iconSize: [128, 128],
                         className: 'leaflet-div-icon'
                     }));
                 },
                 mouseout: (e) => {
-                    e.target.closePopup();
                     e.target.setIcon(new Icon({
                         iconUrl: item.img_url,
-                        iconAnchor: new Point(0, 0),
-                        popupAnchor: new Point(16, 0),
+                        popupAnchor: [-10, 0],
                         shadowUrl: null,
                         shadowSize: null,
                         shadowAnchor: null,
-                        iconSize: new Point(32, 32),
+                        iconSize: [32, 32],
                         className: 'leaflet-div-icon'
                     }));
                 }

@@ -1,5 +1,5 @@
 .map-container {
-  height: 90vh;
+  height: 93vh;
   width: 100%;
 }
 
@@ -26,7 +26,7 @@
 }
 
 .leaflet-control-attribution {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 
 /* make .leaflet-div-icon round and pretty */
@@ -34,3 +34,7 @@
   border-radius: 50%;
 
 }
+
+.font-face-gm {
+  font-family: "Breathing";
+ }

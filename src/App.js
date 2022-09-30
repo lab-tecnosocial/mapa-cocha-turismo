@@ -8,16 +8,21 @@ function App() {
   const theme = createTheme({
     palette: {
       primary: {
-        main: '#C9821E',
+        main: '#14b1fc',
       },
+      text: {
+        primary: "#FFFFFF"
+      }
     },
     typography: {
-    }
+      fontFamily: 'Kalam'      
+    },
+    
   }
   );
   return (
     <ThemeProvider theme={theme}>
-       <CssBaseline />
+      <CssBaseline />
       <Inicio />
     </ThemeProvider>
   );
